@@ -1,0 +1,186 @@
+.buttonDiv {
+    background-color: #7fedd9;
+}
+
+.button {
+    height: 100px;
+    width: 250px;
+    padding-left: 200px;
+}
+#signUpBar{
+    background-color: #9B7ED9;
+    color: white;
+}
+
+
+.mainDiv {
+    
+    background-color: #F5F5F5;
+}
+
+.containerDiv {
+
+    background-color: f5f5f5f;
+}
+
+.imageDiv {
+
+    margin: 0px;
+    padding: 0px;
+    height: 160px;
+    width: 156px;
+    border-radius: 150px;
+    background-color: hsl(0, 6%, 90%);
+}
+
+.imageInnerDiv {
+
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.image {
+
+    margin-left: 0px;
+    padding: 0px;
+    height: 160px;
+    width: 156px;
+    border-radius: 150px;
+    border: 5px solid #fff;
+}
+
+.alt-image {
+
+
+    margin: 11px;
+    padding: 0px;
+    height: 120px;
+    width: 136px;
+
+
+
+}
+
+.basicDetailsDiv {
+    padding-bottom: 20px;
+
+    background-color: #ffff;
+
+}
+
+.roundedShadowDiv {
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    /* Adjust the shadow values as needed */
+}
+
+.name {
+    font-size: 35px;
+}
+
+.pencil {
+    padding-left: 12px;
+    color: grey;
+}
+
+.iconPadding {
+    padding-bottom: 13px;
+    padding-right: 10px;
+}
+
+.vertical-line-basic {
+    border-left: 1px solid rgb(181, 169, 169);
+    margin-left: 45px;
+    /* Adjust color and width as needed */
+
+
+}
+.vertical-line {
+    border-left: 1px solid rgb(181, 169, 169);
+    /* Adjust color and width as needed */
+
+
+}
+
+.paddingMargin {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.resumeDiv {
+    padding-top: 10px;
+    background-color: #fff;
+}
+
+.divBoreder {
+    border: black;
+    border-radius: 15px;
+}
+
+.heading {
+    color: 9B7ED9;
+}
+
+.dotted-border-div {
+    border: 1px dotted #000;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    width: 450px;
+
+}
+
+.button {
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.rounded-button {
+    background-color: #9b7ed9;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.rounded-button:hover {
+    background-color: #93aebb;
+}
+#myTextarea {
+    width: 100%; /* Set width to fill its container */
+    height: auto; /* Allow height to adjust based on content */
+    min-height: 100px; /* Set a minimum height */
+    resize: vertical; /* Allow vertical resizing only */
+    padding: 10px; /* Add padding for better appearance */
+    border: 1px solid #ccc; /* Add a border for better visibility */
+    border-radius: 5px; /* Optional: Add border radius for rounded corners */
+  }
+  .save-icon {
+    position: absolute;
+    bottom: 10px; /* Adjust bottom spacing */
+    right: 10px; /* Adjust right spacing */
+    cursor: pointer;
+  }
+
+  .icon {
+    position: absolute;
+    bottom: 10px; /* Adjust bottom spacing */
+    right: 10px; /* Adjust right spacing */
+    cursor: pointer; /* Color of the icon */
+    margin: 4px;
+  }
+
+  .container-nav {
+    position: relative;
+    
+    
+   
+  }
