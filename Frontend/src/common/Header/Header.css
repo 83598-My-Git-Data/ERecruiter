@@ -1,0 +1,18 @@
+
+.background
+{
+    padding: 8px;
+    background-color: #9B7ED9;
+}
+
+.navbar-brand
+{
+    color: white;
+    font-weight: bolder;
+    font-size: 38px;
+}
+
+.items
+{
+    color: white;
+}
